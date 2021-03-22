@@ -1,3 +1,3 @@
 # Self-Driving-Car
 
-<Still in progress>
+Still in progress.
